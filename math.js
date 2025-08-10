@@ -18,5 +18,4 @@ function comprobarPrimo(int){
     return true;
 }
 
-module.exports = {maximoComunDivisor, comprobarPrimo}
-
+module.exports = {maximoComunDivisor, comprobarPrimo};
